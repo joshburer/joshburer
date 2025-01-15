@@ -1,3 +1,3 @@
 ## Hello! 👋
 ---
-I'm Josh.  I'm a full-time web developer and student based in Atlanta, GA. Currently pursuing a Bachelors in Computer Science at Georgia Tech!
+I'm Josh.  I'm a web developer based in Atlanta, GA. Recently finished a Bachelors in Computer Science at Georgia Tech!
